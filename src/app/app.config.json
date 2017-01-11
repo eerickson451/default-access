@@ -1,0 +1,15 @@
+{
+	"appname": "default access",
+	"scope": "",
+	"clientid": "BF82790A-5643-452A-B97F-587F53ED7383",
+	"buyerid": "JanuaryBuyer",
+	"catalogid": "JanuaryBuyer",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
